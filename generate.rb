@@ -19,7 +19,7 @@ categories.each do |c|
       puts "Warning: Image '#{image_name}' is missing for '#{name}' (under '#{c['name']}')"
       image_name = MISSING_IMAGE_NAME
     end
-    html += "<a href='#{url}' alt='#{name}'><img src='images/#{image_name}' /></a>\n"
+    html += "<a href='#{url}' title='#{name}'><img src='images/#{image_name}' /></a>\n"
   end
 end
 
