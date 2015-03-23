@@ -16,7 +16,9 @@
       { "name": "Chibi Knight", "url": "http://www.kongregate.com/games/bomtoons/chibi-knight"},
       { "name": "TTS API", "url": "http://tts-api.com/"},
       { "name": "The Sandbox", "url": "http://www.flasharcadegamessite.com/26367-the-sandbox.html"},
-      { "name": "Army of Elephants", "url": "http://www.islamicnet.com/games/Army_of_Elephants.htm"}
+      { "name": "Army of Elephants", "url": "http://www.islamicnet.com/games/Army_of_Elephants.htm"},
+      { "name": "Times Ninja", "url": "http://timesninja.com/" }
+
     ]},
     { "name": "Experiment!", "games": [
       { "name": "Death vs. Monstars", "url": "http://www.kongregate.com/games/gamereclaim/death-vs-monstars"},
